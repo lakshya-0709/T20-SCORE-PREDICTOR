@@ -1,0 +1,1524 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Albergaria
+  dates:
+  - '2026-04-06'
+  gender: male
+  match_type: T20
+  match_type_number: 3803
+  outcome:
+    winner: Portugal
+    by:
+      runs: 28
+    method: D/L
+  overs: 20
+  player_of_match:
+  - C De Freitas
+  players:
+    Portugal:
+    - D Norotam
+    - C De Freitas
+    - J Martins
+    - Edward Fleming
+    - Natim Hassam
+    - C Nunes
+    - R Hashu
+    - C Greenshields
+    - JAM Henri
+    - S Vaz
+    - Deep Harian
+    France:
+    - Mukhtar Ghulami
+    - Nasibullah Arab
+    - Noman Amjad
+    - C Roberts
+    - Zada Sher
+    - G Mckeon
+    - L Canessane
+    - Dawood Ahmadzai
+    - Mohammad Khan Rafah
+    - Rahimgul Naseri
+    - Usman Khan
+  registry:
+    people:
+      C De Freitas: 22072cab
+      C Greenshields: 55f0e741
+      C Nunes: 37ee5d23
+      C Roberts: 07ac9c54
+      D Norotam: 90b73986
+      Dawood Ahmadzai: 951686f5
+      Deep Harian: 79a29279
+      Edward Fleming: 2b43be58
+      G Mckeon: 31366b7e
+      J Martins: 9c96b71f
+      JAM Henri: 04df9697
+      L Canessane: 72a4c3b2
+      Mohammad Khan Rafah: bb5f73de
+      Mukhtar Ghulami: d3b1d991
+      Nasibullah Arab: '99926083'
+      Natim Hassam: c802af1c
+      Noman Amjad: c079c66a
+      R Hashu: a53029a1
+      Rahimgul Naseri: bf07cc63
+      S Vaz: ad67ab56
+      Usman Khan: e8a552ef
+      Zada Sher: 5cf163a5
+  teams:
+  - Portugal
+  - France
+  toss:
+    winner: Portugal
+    decision: bat
+  venue: Santarem Cricket Ground
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.2:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.3:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.4:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.5:
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.6:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Norotam
+    - 1.1:
+        non_striker: D Norotam
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 1.2:
+        non_striker: C De Freitas
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Norotam
+    - 1.3:
+        non_striker: C De Freitas
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Norotam
+    - 1.4:
+        non_striker: D Norotam
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 1.5:
+        non_striker: D Norotam
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 1.6:
+        non_striker: D Norotam
+        bowler: G Mckeon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 2.1:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Norotam
+    - 2.2:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Norotam
+    - 2.3:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C De Freitas
+    - 2.4:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 2.5:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 2.6:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 3.1:
+        non_striker: D Norotam
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 3.2:
+        non_striker: C De Freitas
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Norotam
+    - 3.3:
+        non_striker: D Norotam
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C De Freitas
+    - 3.4:
+        non_striker: D Norotam
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 3.5:
+        non_striker: D Norotam
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 3.6:
+        non_striker: D Norotam
+        bowler: Rahimgul Naseri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 4.1:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Norotam
+    - 4.2:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Norotam
+    - 4.3:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Norotam
+    - 4.4:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Norotam
+    - 4.5:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 4.6:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 4.7:
+        non_striker: D Norotam
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 5.1:
+        non_striker: D Norotam
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 5.2:
+        non_striker: D Norotam
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 5.3:
+        non_striker: D Norotam
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 5.4:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Norotam
+        wicket:
+          player_out: D Norotam
+          kind: lbw
+    - 5.5:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 5.6:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 6.1:
+        non_striker: J Martins
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 6.2:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 6.3:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 6.4:
+        non_striker: J Martins
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 6.5:
+        non_striker: C De Freitas
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 6.6:
+        non_striker: J Martins
+        bowler: Noman Amjad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C De Freitas
+    - 7.1:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 7.2:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 7.3:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 7.4:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 7.5:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 7.6:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Martins
+    - 7.7:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 8.1:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 8.2:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 8.3:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: C De Freitas
+    - 8.4:
+        non_striker: C De Freitas
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 8.5:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 8.6:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 8.7:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 9.1:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Martins
+    - 9.2:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 9.3:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 9.4:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 9.5:
+        non_striker: C De Freitas
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 9.6:
+        non_striker: J Martins
+        bowler: Zada Sher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 10.1:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 10.2:
+        non_striker: C De Freitas
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 10.3:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 10.4:
+        non_striker: C De Freitas
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 10.5:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 10.6:
+        non_striker: C De Freitas
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Martins
+    - 11.1:
+        non_striker: J Martins
+        bowler: C Roberts
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C De Freitas
+    - 11.2:
+        non_striker: J Martins
+        bowler: C Roberts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 11.3:
+        non_striker: J Martins
+        bowler: C Roberts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 11.4:
+        non_striker: J Martins
+        bowler: C Roberts
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 11.5:
+        non_striker: J Martins
+        bowler: C Roberts
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 11.6:
+        non_striker: J Martins
+        bowler: C Roberts
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 12.1:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 12.2:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 12.3:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C De Freitas
+    - 12.4:
+        non_striker: J Martins
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 12.5:
+        non_striker: C De Freitas
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 12.6:
+        non_striker: C De Freitas
+        bowler: Mohammad Khan Rafah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Martins
+    - 13.1:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 13.2:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C De Freitas
+    - 13.3:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 13.4:
+        non_striker: C De Freitas
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 13.5:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C De Freitas
+    - 13.6:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C De Freitas
+    - 14.1:
+        non_striker: C De Freitas
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 14.2:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+        wicket:
+          player_out: C De Freitas
+          fielders:
+          - L Canessane
+          kind: stumped
+    - 14.3:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Edward Fleming
+        wicket:
+          player_out: Edward Fleming
+          fielders:
+          - L Canessane
+          kind: caught
+    - 14.4:
+        non_striker: J Martins
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 14.5:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 14.6:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 15.1:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 15.2:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 15.3:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Martins
+    - 15.4:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 15.5:
+        non_striker: J Martins
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 15.6:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+        wicket:
+          player_out: J Martins
+          fielders:
+          - Zada Sher
+          kind: caught
+    - 15.7:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Nunes
+    - 16.1:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+    - 16.2:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Nunes
+    - 16.3:
+        non_striker: C Nunes
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 16.4:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+    - 16.5:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Nunes
+    - 16.6:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+    - 17.1:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 17.2:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 17.3:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 17.4:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Nunes
+    - 17.5:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Nunes
+    - 17.6:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natim Hassam
+    - 18.1:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Nunes
+    - 18.2:
+        non_striker: C Nunes
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 18.3:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Nunes
+    - 18.4:
+        non_striker: C Nunes
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natim Hassam
+    - 18.5:
+        non_striker: C Nunes
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 18.6:
+        non_striker: Natim Hassam
+        bowler: Dawood Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Nunes
+    - 19.1:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natim Hassam
+    - 19.2:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Natim Hassam
+    - 19.3:
+        non_striker: C Nunes
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 19.4:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Nunes
+    - 19.5:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Nunes
+    - 19.6:
+        non_striker: Natim Hassam
+        bowler: Usman Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+- 2nd innings:
+    team: France
+    deliveries:
+    - 0.1:
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nasibullah Arab
+        batsman: Mukhtar Ghulami
+    - 0.2:
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Nasibullah Arab
+        batsman: Mukhtar Ghulami
+    - 0.3:
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nasibullah Arab
+        batsman: Mukhtar Ghulami
+    - 0.4:
+        non_striker: Mukhtar Ghulami
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasibullah Arab
+        wicket:
+          player_out: Nasibullah Arab
+          kind: bowled
+    - 0.5:
+        non_striker: Mukhtar Ghulami
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Noman Amjad
+    - 0.6:
+        non_striker: Mukhtar Ghulami
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 1.1:
+        non_striker: Mukhtar Ghulami
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noman Amjad
+    - 1.2:
+        non_striker: Noman Amjad
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ghulami
+    - 1.3:
+        non_striker: Noman Amjad
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ghulami
+    - 1.4:
+        non_striker: Mukhtar Ghulami
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noman Amjad
+        wicket:
+          player_out: Noman Amjad
+          kind: lbw
+    - 1.5:
+        non_striker: Mukhtar Ghulami
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 1.6:
+        non_striker: C Roberts
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mukhtar Ghulami
+    - 2.1:
+        non_striker: Mukhtar Ghulami
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Roberts
+    - 2.2:
+        non_striker: Mukhtar Ghulami
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 2.3:
+        non_striker: C Roberts
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ghulami
+    - 2.4:
+        non_striker: C Roberts
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ghulami
+    - 2.5:
+        non_striker: C Roberts
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ghulami
+    - 2.6:
+        non_striker: C Roberts
+        bowler: R Hashu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ghulami
+    - 3.1:
+        non_striker: C Roberts
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ghulami
+    - 3.2:
+        non_striker: C Roberts
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mukhtar Ghulami
+    - 3.3:
+        non_striker: Mukhtar Ghulami
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts
+    - 3.4:
+        non_striker: Mukhtar Ghulami
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 3.5:
+        non_striker: C Roberts
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ghulami
+    - 3.6:
+        non_striker: C Roberts
+        bowler: JAM Henri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mukhtar Ghulami
+    - 3.7:
+        non_striker: C Roberts
+        bowler: JAM Henri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mukhtar Ghulami
+    - 4.1:
+        non_striker: Mukhtar Ghulami
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts
+    - 4.2:
+        non_striker: Mukhtar Ghulami
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 4.3:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mukhtar Ghulami
+        wicket:
+          player_out: Mukhtar Ghulami
+          fielders:
+          - Natim Hassam
+          kind: caught
+    - 4.4:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zada Sher
+        wicket:
+          player_out: Zada Sher
+          fielders:
+          - Deep Harian
+          kind: caught
+    - 4.5:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Mckeon
+    - 4.6:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 5.1:
+        non_striker: G Mckeon
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Roberts
+    - 5.2:
+        non_striker: G Mckeon
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 5.3:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 5.4:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 5.5:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 5.6:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Mckeon
+    - 5.7:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 6.1:
+        non_striker: G Mckeon
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 6.2:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 6.3:
+        non_striker: G Mckeon
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 6.4:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Mckeon
+    - 6.5:
+        non_striker: C Roberts
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 6.6:
+        non_striker: G Mckeon
+        bowler: J Martins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 7.1:
+        non_striker: G Mckeon
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Roberts
+    - 7.2:
+        non_striker: G Mckeon
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 7.3:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 7.4:
+        non_striker: G Mckeon
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts
+    - 7.5:
+        non_striker: C Roberts
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Mckeon
+    - 7.6:
+        non_striker: G Mckeon
+        bowler: Natim Hassam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Roberts

@@ -1,0 +1,2237 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-04'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Naucalpan
+  dates:
+  - '2026-04-02'
+  gender: male
+  match_type: T20
+  match_type_number: 3794
+  outcome:
+    winner: Mexico
+    by:
+      runs: 124
+  overs: 20
+  player_of_match:
+  - D Panda
+  players:
+    Mexico:
+    - J Byrappa
+    - Seetharam Guruvayoorappan
+    - KB Patil
+    - Shantanu Kaveri
+    - D Panda
+    - Amir Butt
+    - DV Devjani Mutreja
+    - Pratik Singh Bais
+    - Hassan Nasir
+    - S Sharma
+    - GE Gutierrez Chavez
+    Costa Rica:
+    - TV Badri Narayanan
+    - J Cutinho
+    - S Wankhade
+    - S Pillai
+    - S Ravikumar
+    - K Shivam
+    - Ashar Abbas
+    - YJC Altamirano
+    - S Murari
+    - Imran Ahmed Kaneez
+    - O Sam Arthur
+  registry:
+    people:
+      Amir Butt: 5bdf2343
+      Ashar Abbas: 33e59f48
+      D Panda: bad1af65
+      DV Devjani Mutreja: c872d657
+      GE Gutierrez Chavez: 6ecd3d7b
+      Hassan Nasir: d32f3102
+      Imran Ahmed Kaneez: 8c3cbee9
+      J Byrappa: 860f7b67
+      J Cutinho: c329d304
+      K Shivam: f46fbe60
+      KB Patil: 0474fd64
+      O Sam Arthur: 11c35bf1
+      Pratik Singh Bais: 5b351aff
+      S Murari: 3ed39f01
+      S Pillai: 927b34c9
+      S Ravikumar: 5597338d
+      S Sharma: d6d2ac95
+      S Wankhade: 27ca21c1
+      Seetharam Guruvayoorappan: 9663115e
+      Shantanu Kaveri: '091880f7'
+      TV Badri Narayanan: fb68e13e
+      YJC Altamirano: 35f622e6
+  teams:
+  - Mexico
+  - Costa Rica
+  toss:
+    winner: Mexico
+    decision: bat
+  venue: Reforma Athletic Club, Naucalpan
+innings:
+- 1st innings:
+    team: Mexico
+    deliveries:
+    - 0.1:
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Seetharam Guruvayoorappan
+        batsman: J Byrappa
+    - 0.2:
+        non_striker: J Byrappa
+        bowler: S Pillai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Seetharam Guruvayoorappan
+    - 0.3:
+        non_striker: J Byrappa
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seetharam Guruvayoorappan
+    - 0.4:
+        non_striker: J Byrappa
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Seetharam Guruvayoorappan
+    - 0.5:
+        non_striker: Seetharam Guruvayoorappan
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+    - 0.6:
+        non_striker: Seetharam Guruvayoorappan
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Byrappa
+        wicket:
+          player_out: J Byrappa
+          fielders:
+          - S Wankhade
+          kind: caught
+    - 0.7:
+        non_striker: Seetharam Guruvayoorappan
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 1.1:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seetharam Guruvayoorappan
+    - 1.2:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Seetharam Guruvayoorappan
+        wicket:
+          player_out: Seetharam Guruvayoorappan
+          fielders:
+          - S Pillai
+          kind: caught
+    - 1.3:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 1.4:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shantanu Kaveri
+    - 1.5:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 1.6:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 2.1:
+        non_striker: Shantanu Kaveri
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 2.2:
+        non_striker: Shantanu Kaveri
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 2.3:
+        non_striker: Shantanu Kaveri
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 2.4:
+        non_striker: Shantanu Kaveri
+        bowler: S Pillai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KB Patil
+    - 2.5:
+        non_striker: KB Patil
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 2.6:
+        non_striker: KB Patil
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 3.1:
+        non_striker: Shantanu Kaveri
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KB Patil
+    - 3.2:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 3.3:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 3.4:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 3.5:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 3.6:
+        non_striker: KB Patil
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shantanu Kaveri
+    - 4.1:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 4.2:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 4.3:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 4.4:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 4.5:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shantanu Kaveri
+    - 4.6:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 4.7:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 4.8:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Patil
+    - 5.1:
+        non_striker: Shantanu Kaveri
+        bowler: O Sam Arthur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KB Patil
+    - 5.2:
+        non_striker: Shantanu Kaveri
+        bowler: O Sam Arthur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 5.3:
+        non_striker: Shantanu Kaveri
+        bowler: O Sam Arthur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 5.4:
+        non_striker: Shantanu Kaveri
+        bowler: O Sam Arthur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 5.5:
+        non_striker: Shantanu Kaveri
+        bowler: O Sam Arthur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KB Patil
+    - 5.6:
+        non_striker: Shantanu Kaveri
+        bowler: O Sam Arthur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 6.1:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 6.2:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 6.3:
+        non_striker: KB Patil
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shantanu Kaveri
+    - 6.4:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KB Patil
+    - 6.5:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KB Patil
+    - 6.6:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+    - 6.7:
+        non_striker: Shantanu Kaveri
+        bowler: S Wankhade
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KB Patil
+    - 7.1:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 7.2:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shantanu Kaveri
+    - 7.3:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shantanu Kaveri
+    - 7.4:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+    - 7.5:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shantanu Kaveri
+    - 7.6:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shantanu Kaveri
+        wicket:
+          player_out: Shantanu Kaveri
+          fielders:
+          - Imran Ahmed Kaneez
+          kind: caught
+    - 7.7:
+        non_striker: KB Patil
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 8.1:
+        non_striker: KB Patil
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 8.2:
+        non_striker: KB Patil
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 8.3:
+        non_striker: D Panda
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Patil
+        wicket:
+          player_out: KB Patil
+          fielders:
+          - TV Badri Narayanan
+          kind: caught
+    - 8.4:
+        non_striker: D Panda
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 8.5:
+        non_striker: Amir Butt
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 8.6:
+        non_striker: Amir Butt
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 9.1:
+        non_striker: D Panda
+        bowler: S Murari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Amir Butt
+    - 9.2:
+        non_striker: D Panda
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 9.3:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 9.4:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 9.5:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 9.6:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 9.7:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 10.1:
+        non_striker: D Panda
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Amir Butt
+    - 10.2:
+        non_striker: Amir Butt
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 10.3:
+        non_striker: Amir Butt
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 10.4:
+        non_striker: D Panda
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 10.5:
+        non_striker: D Panda
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 10.6:
+        non_striker: D Panda
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 11.1:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Panda
+    - 11.2:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 11.3:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 11.4:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Butt
+    - 11.5:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 11.6:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 11.7:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 12.1:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Butt
+    - 12.2:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Amir Butt
+    - 12.3:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Amir Butt
+    - 12.4:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 12.5:
+        non_striker: Amir Butt
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 12.6:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 12.7:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 13.1:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 13.2:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 13.3:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 13.4:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 13.5:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 13.6:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 14.1:
+        non_striker: Amir Butt
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 14.2:
+        non_striker: Amir Butt
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 14.3:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 14.4:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 14.5:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 14.6:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Amir Butt
+    - 14.7:
+        non_striker: Amir Butt
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 15.1:
+        non_striker: D Panda
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 15.2:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 15.3:
+        non_striker: Amir Butt
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 15.4:
+        non_striker: D Panda
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 15.5:
+        non_striker: D Panda
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 15.6:
+        non_striker: D Panda
+        bowler: S Murari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 16.1:
+        non_striker: Amir Butt
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 16.2:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 16.3:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 16.4:
+        non_striker: Amir Butt
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 16.5:
+        non_striker: D Panda
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 16.6:
+        non_striker: Amir Butt
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Panda
+    - 16.7:
+        non_striker: Amir Butt
+        bowler: Imran Ahmed Kaneez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Panda
+    - 17.1:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 17.2:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 17.3:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 17.4:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 17.5:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+    - 17.6:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Panda
+    - 18.1:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 18.2:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Amir Butt
+    - 18.3:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 18.4:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 18.5:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 18.6:
+        non_striker: D Panda
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 19.1:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Panda
+    - 19.2:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Panda
+    - 19.3:
+        non_striker: Amir Butt
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Panda
+    - 19.4:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amir Butt
+    - 19.5:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Amir Butt
+    - 19.6:
+        non_striker: D Panda
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amir Butt
+        wicket:
+          player_out: Amir Butt
+          fielders:
+          - S Ravikumar
+          kind: run out
+- 2nd innings:
+    team: Costa Rica
+    deliveries:
+    - 0.1:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Cutinho
+        batsman: TV Badri Narayanan
+    - 0.2:
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Cutinho
+        batsman: TV Badri Narayanan
+    - 0.3:
+        non_striker: TV Badri Narayanan
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cutinho
+    - 0.4:
+        non_striker: J Cutinho
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 0.5:
+        non_striker: J Cutinho
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 0.6:
+        non_striker: J Cutinho
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 1.1:
+        non_striker: TV Badri Narayanan
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Cutinho
+    - 1.2:
+        non_striker: TV Badri Narayanan
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cutinho
+    - 1.3:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 1.4:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 1.5:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 1.6:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TV Badri Narayanan
+    - 2.1:
+        non_striker: J Cutinho
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TV Badri Narayanan
+    - 2.2:
+        non_striker: TV Badri Narayanan
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Cutinho
+    - 2.3:
+        non_striker: TV Badri Narayanan
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 2.4:
+        non_striker: TV Badri Narayanan
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 2.5:
+        non_striker: TV Badri Narayanan
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 2.6:
+        non_striker: TV Badri Narayanan
+        bowler: Pratik Singh Bais
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Cutinho
+    - 3.1:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: TV Badri Narayanan
+    - 3.2:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.3:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.4:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.5:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TV Badri Narayanan
+    - 3.6:
+        non_striker: TV Badri Narayanan
+        bowler: Hassan Nasir
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: J Cutinho
+    - 3.7:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+        wicket:
+          player_out: TV Badri Narayanan
+          kind: bowled
+    - 4.1:
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Wankhade
+        batsman: J Cutinho
+    - 4.2:
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Wankhade
+        batsman: J Cutinho
+    - 4.3:
+        non_striker: S Wankhade
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+        wicket:
+          player_out: S Wankhade
+          fielders:
+          - Shantanu Kaveri
+          kind: run out
+    - 4.4:
+        non_striker: J Cutinho
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 4.5:
+        non_striker: J Cutinho
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 4.6:
+        non_striker: J Cutinho
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 5.1:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 5.2:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 5.3:
+        non_striker: S Pillai
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 5.4:
+        non_striker: S Pillai
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 5.5:
+        non_striker: S Pillai
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cutinho
+    - 5.6:
+        non_striker: J Cutinho
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 6.1:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 6.2:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: J Cutinho
+    - 6.3:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 6.4:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 6.5:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 6.6:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+        wicket:
+          player_out: J Cutinho
+          kind: bowled
+    - 7.1:
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ravikumar
+        batsman: S Pillai
+    - 7.2:
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ravikumar
+        batsman: S Pillai
+    - 7.3:
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ravikumar
+        batsman: S Pillai
+    - 7.4:
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ravikumar
+        batsman: S Pillai
+    - 7.5:
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Ravikumar
+        batsman: S Pillai
+    - 7.6:
+        non_striker: S Ravikumar
+        bowler: Hassan Nasir
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 8.1:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 8.2:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 8.3:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 8.4:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 8.5:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pillai
+    - 8.6:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 9.1:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 9.2:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 9.3:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pillai
+    - 9.4:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 9.5:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 9.6:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pillai
+    - 9.7:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 9.8:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 10.1:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Pillai
+    - 10.2:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Pillai
+    - 10.3:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 10.4:
+        non_striker: S Ravikumar
+        bowler: S Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Pillai
+    - 10.5:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 10.6:
+        non_striker: S Pillai
+        bowler: S Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 11.1:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 11.2:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pillai
+    - 11.3:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 11.4:
+        non_striker: S Ravikumar
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 11.5:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 11.6:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 12.1:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Ravikumar
+    - 12.2:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 12.3:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+        wicket:
+          player_out: S Ravikumar
+          fielders:
+          - Seetharam Guruvayoorappan
+          kind: caught
+    - 12.4:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shivam
+    - 12.5:
+        non_striker: K Shivam
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Pillai
+    - 12.6:
+        non_striker: K Shivam
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 13.1:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Shivam
+    - 13.2:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 13.3:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 13.4:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 13.5:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 13.6:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 13.7:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Shivam
+    - 13.8:
+        non_striker: S Pillai
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shivam
+    - 14.1:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 14.2:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 14.3:
+        non_striker: S Pillai
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shivam
+    - 14.4:
+        non_striker: K Shivam
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+        wicket:
+          player_out: S Pillai
+          fielders:
+          - S Sharma
+          kind: caught
+    - 14.5:
+        non_striker: K Shivam
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashar Abbas
+    - 14.6:
+        non_striker: K Shivam
+        bowler: D Panda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 15.1:
+        non_striker: Ashar Abbas
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Shivam
+    - 15.2:
+        non_striker: Ashar Abbas
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 15.3:
+        non_striker: Ashar Abbas
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 15.4:
+        non_striker: Ashar Abbas
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 15.5:
+        non_striker: Ashar Abbas
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 15.6:
+        non_striker: Ashar Abbas
+        bowler: DV Devjani Mutreja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 16.1:
+        non_striker: K Shivam
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashar Abbas
+    - 16.2:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+        wicket:
+          player_out: K Shivam
+          kind: bowled
+    - 16.3:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+    - 16.4:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+    - 16.5:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+    - 16.6:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+    - 17.1:
+        non_striker: YJC Altamirano
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 17.2:
+        non_striker: YJC Altamirano
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 17.3:
+        non_striker: YJC Altamirano
+        bowler: KB Patil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ashar Abbas
+    - 17.4:
+        non_striker: YJC Altamirano
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashar Abbas
+    - 17.5:
+        non_striker: Ashar Abbas
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+    - 17.6:
+        non_striker: Ashar Abbas
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+    - 17.7:
+        non_striker: Ashar Abbas
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YJC Altamirano
+    - 18.1:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YJC Altamirano
+        wicket:
+          player_out: YJC Altamirano
+          kind: bowled
+    - 18.2:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Murari
+    - 18.3:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Murari
+    - 18.4:
+        non_striker: Ashar Abbas
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Murari
+    - 18.5:
+        non_striker: S Murari
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 18.6:
+        non_striker: S Murari
+        bowler: J Byrappa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashar Abbas
+    - 19.1:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 19.2:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 19.3:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashar Abbas
+    - 19.4:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashar Abbas
+    - 19.5:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ashar Abbas
+    - 19.6:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+    - 19.7:
+        non_striker: S Murari
+        bowler: KB Patil
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashar Abbas

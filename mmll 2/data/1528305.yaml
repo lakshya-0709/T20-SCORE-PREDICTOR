@@ -1,0 +1,1899 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-08'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Albergaria
+  dates:
+  - '2026-04-08'
+  gender: male
+  match_type: T20
+  match_type_number: 3808
+  outcome:
+    winner: Portugal
+    by:
+      runs: 83
+  overs: 20
+  player_of_match:
+  - Sirajullah Khadim
+  players:
+    Portugal:
+    - D Norotam
+    - C De Freitas
+    - J Martins
+    - Edward Fleming
+    - Natim Hassam
+    - C Potgieter
+    - C Nunes
+    - C Greenshields
+    - H Khuttan
+    - U Shantu
+    - Sirajullah Khadim
+    Norway:
+    - Khizer Ahmed
+    - D Abeyrathna
+    - Chaudhary Akram
+    - Tafseer Ali
+    - Sher Sahak
+    - M Shahbaz Butt
+    - Ibrahim Rahimi
+    - Faisal Raza
+    - Qamar Mushtaque
+    - Vinay Ravi
+    - Mansoor Shah
+  registry:
+    people:
+      C De Freitas: 22072cab
+      C Greenshields: 55f0e741
+      C Nunes: 37ee5d23
+      C Potgieter: d3bdc89c
+      Chaudhary Akram: 3e697d4a
+      D Abeyrathna: ee17d329
+      D Norotam: 90b73986
+      Edward Fleming: 2b43be58
+      Faisal Raza: dccb802c
+      H Khuttan: 9c48bdee
+      Ibrahim Rahimi: f8ef3653
+      J Martins: 9c96b71f
+      Junaid Mehmood: 3e46c4f3
+      Khizer Ahmed: 723ca856
+      M Shahbaz Butt: 5ef3c310
+      Mansoor Shah: d09615c8
+      Natim Hassam: c802af1c
+      Qamar Mushtaque: fc362c5d
+      Sher Sahak: 8299b9a2
+      Sirajullah Khadim: ff36e706
+      Tafseer Ali: b9c3ffcd
+      U Shantu: 0e80e47d
+      Vinay Ravi: 9c181b99
+  teams:
+  - Portugal
+  - Norway
+  toss:
+    winner: Portugal
+    decision: bat
+  venue: Santarem Cricket Ground
+innings:
+- 1st innings:
+    team: Portugal
+    deliveries:
+    - 0.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.2:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.3:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.4:
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C De Freitas
+        batsman: D Norotam
+    - 0.5:
+        non_striker: C De Freitas
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Norotam
+        wicket:
+          player_out: D Norotam
+          kind: bowled
+    - 0.6:
+        non_striker: C De Freitas
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 1.1:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+    - 1.2:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C De Freitas
+    - 1.3:
+        non_striker: C De Freitas
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Martins
+    - 1.4:
+        non_striker: C De Freitas
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 1.5:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C De Freitas
+    - 1.6:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C De Freitas
+        wicket:
+          player_out: C De Freitas
+          fielders:
+          - Chaudhary Akram
+          kind: caught
+    - 2.1:
+        bowler: Vinay Ravi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Edward Fleming
+        batsman: J Martins
+    - 2.2:
+        non_striker: J Martins
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Edward Fleming
+    - 2.3:
+        non_striker: Edward Fleming
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 2.4:
+        non_striker: J Martins
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Edward Fleming
+    - 2.5:
+        non_striker: J Martins
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Edward Fleming
+    - 2.6:
+        non_striker: J Martins
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Edward Fleming
+    - 3.1:
+        non_striker: Edward Fleming
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 3.2:
+        non_striker: Edward Fleming
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+        wicket:
+          player_out: Edward Fleming
+          fielders:
+          - Junaid Mehmood (sub)
+          - Khizer Ahmed
+          kind: run out
+    - 3.3:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 3.4:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 3.5:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 3.6:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 4.1:
+        non_striker: J Martins
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 4.2:
+        non_striker: Natim Hassam
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 4.3:
+        non_striker: Natim Hassam
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Martins
+    - 4.4:
+        non_striker: Natim Hassam
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Martins
+    - 4.5:
+        non_striker: Natim Hassam
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 4.6:
+        non_striker: J Martins
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 5.1:
+        non_striker: Natim Hassam
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+    - 5.2:
+        non_striker: Natim Hassam
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Martins
+    - 5.3:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natim Hassam
+    - 5.4:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Natim Hassam
+    - 5.5:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 5.6:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natim Hassam
+    - 5.7:
+        non_striker: J Martins
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 6.1:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Martins
+        wicket:
+          player_out: J Martins
+          fielders:
+          - D Abeyrathna
+          kind: caught
+    - 6.2:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Potgieter
+    - 6.3:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Potgieter
+    - 6.4:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Potgieter
+    - 6.5:
+        non_striker: C Potgieter
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 6.6:
+        non_striker: C Potgieter
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 7.1:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Potgieter
+    - 7.2:
+        non_striker: C Potgieter
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 7.3:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Potgieter
+    - 7.4:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Potgieter
+    - 7.5:
+        non_striker: C Potgieter
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 7.6:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Potgieter
+        wicket:
+          player_out: C Potgieter
+          fielders:
+          - Chaudhary Akram
+          kind: caught
+    - 8.1:
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: C Nunes
+        batsman: Natim Hassam
+    - 8.2:
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Nunes
+        batsman: Natim Hassam
+    - 8.3:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+    - 8.4:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+    - 8.5:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Nunes
+    - 8.6:
+        non_striker: C Nunes
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 9.1:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Nunes
+        wicket:
+          player_out: C Nunes
+          kind: bowled
+    - 9.2:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 9.3:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 9.4:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 9.5:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 9.6:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 10.1:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 10.2:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 10.3:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 10.4:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 10.5:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Greenshields
+    - 10.6:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 11.1:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 11.2:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Natim Hassam
+    - 11.3:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natim Hassam
+    - 11.4:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 11.5:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 11.6:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 11.7:
+        non_striker: Natim Hassam
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 12.1:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 12.2:
+        non_striker: C Greenshields
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natim Hassam
+    - 12.3:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Greenshields
+    - 12.4:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 12.5:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 12.6:
+        non_striker: Natim Hassam
+        bowler: M Shahbaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 13.1:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 13.2:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+    - 13.3:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Natim Hassam
+    - 13.4:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natim Hassam
+        wicket:
+          player_out: Natim Hassam
+          fielders:
+          - Faisal Raza
+          kind: caught
+    - 13.5:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+    - 13.6:
+        non_striker: C Greenshields
+        bowler: D Abeyrathna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+    - 14.1:
+        non_striker: H Khuttan
+        bowler: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 14.2:
+        non_striker: C Greenshields
+        bowler: Faisal Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+    - 14.3:
+        non_striker: C Greenshields
+        bowler: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Khuttan
+    - 14.4:
+        non_striker: H Khuttan
+        bowler: Faisal Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 14.5:
+        non_striker: C Greenshields
+        bowler: Faisal Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Khuttan
+    - 14.6:
+        non_striker: C Greenshields
+        bowler: Faisal Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Khuttan
+    - 15.1:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 15.2:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Khuttan
+    - 15.3:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 15.4:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+    - 15.5:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Khuttan
+    - 15.6:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 16.1:
+        non_striker: H Khuttan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 16.2:
+        non_striker: H Khuttan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Greenshields
+    - 16.3:
+        non_striker: H Khuttan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Greenshields
+    - 16.4:
+        non_striker: H Khuttan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Greenshields
+    - 16.5:
+        non_striker: H Khuttan
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 16.6:
+        non_striker: C Greenshields
+        bowler: Vinay Ravi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+    - 17.1:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 17.2:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Khuttan
+    - 17.3:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Greenshields
+    - 17.4:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Greenshields
+    - 17.5:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Khuttan
+    - 17.6:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+    - 18.1:
+        non_striker: C Greenshields
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Khuttan
+    - 18.2:
+        non_striker: C Greenshields
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Khuttan
+    - 18.3:
+        non_striker: H Khuttan
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 18.4:
+        non_striker: C Greenshields
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+    - 18.5:
+        non_striker: C Greenshields
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Khuttan
+    - 18.6:
+        non_striker: C Greenshields
+        bowler: Mansoor Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Khuttan
+    - 19.1:
+        non_striker: H Khuttan
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Greenshields
+    - 19.2:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Khuttan
+        wicket:
+          player_out: H Khuttan
+          fielders:
+          - Mansoor Shah
+          kind: caught
+    - 19.3:
+        non_striker: C Greenshields
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Shantu
+    - 19.4:
+        non_striker: U Shantu
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Greenshields
+    - 19.5:
+        non_striker: U Shantu
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Greenshields
+        wicket:
+          player_out: C Greenshields
+          fielders:
+          - Vinay Ravi
+          kind: caught
+    - 19.6:
+        non_striker: U Shantu
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sirajullah Khadim
+    - 19.7:
+        non_striker: U Shantu
+        bowler: Qamar Mushtaque
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Sirajullah Khadim
+- 2nd innings:
+    team: Norway
+    deliveries:
+    - 0.1:
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Abeyrathna
+        batsman: Khizer Ahmed
+    - 0.2:
+        non_striker: Khizer Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 0.3:
+        non_striker: Khizer Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 0.4:
+        non_striker: Khizer Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 0.5:
+        non_striker: D Abeyrathna
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 0.6:
+        non_striker: Khizer Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 1.1:
+        non_striker: Khizer Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 1.2:
+        non_striker: D Abeyrathna
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 1.3:
+        non_striker: Khizer Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 1.4:
+        non_striker: D Abeyrathna
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 1.5:
+        non_striker: D Abeyrathna
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khizer Ahmed
+    - 1.6:
+        non_striker: Khizer Ahmed
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 2.1:
+        non_striker: Khizer Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+    - 2.2:
+        non_striker: Khizer Ahmed
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Abeyrathna
+    - 2.3:
+        non_striker: D Abeyrathna
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+    - 2.4:
+        non_striker: D Abeyrathna
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khizer Ahmed
+        wicket:
+          player_out: Khizer Ahmed
+          kind: bowled
+    - 2.5:
+        non_striker: D Abeyrathna
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chaudhary Akram
+    - 2.6:
+        non_striker: D Abeyrathna
+        bowler: U Shantu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chaudhary Akram
+    - 3.1:
+        non_striker: Chaudhary Akram
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Abeyrathna
+        wicket:
+          player_out: D Abeyrathna
+          kind: bowled
+    - 3.2:
+        non_striker: Chaudhary Akram
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tafseer Ali
+    - 3.3:
+        non_striker: Chaudhary Akram
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tafseer Ali
+    - 3.4:
+        non_striker: Chaudhary Akram
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tafseer Ali
+    - 3.5:
+        non_striker: Chaudhary Akram
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tafseer Ali
+    - 3.6:
+        non_striker: Chaudhary Akram
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tafseer Ali
+        wicket:
+          player_out: Tafseer Ali
+          kind: bowled
+    - 4.1:
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Sher Sahak
+        batsman: Chaudhary Akram
+    - 4.2:
+        non_striker: Chaudhary Akram
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 4.3:
+        non_striker: Chaudhary Akram
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sher Sahak
+    - 4.4:
+        non_striker: Sher Sahak
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Chaudhary Akram
+        wicket:
+          player_out: Chaudhary Akram
+          fielders:
+          - C Nunes
+          kind: caught
+    - 4.5:
+        non_striker: Sher Sahak
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahbaz Butt
+    - 4.6:
+        non_striker: Sher Sahak
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahbaz Butt
+    - 5.1:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sher Sahak
+    - 5.2:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sher Sahak
+    - 5.3:
+        non_striker: Sher Sahak
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahbaz Butt
+    - 5.4:
+        non_striker: Sher Sahak
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahbaz Butt
+    - 5.5:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+    - 5.6:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sher Sahak
+        wicket:
+          player_out: Sher Sahak
+          fielders:
+          - J Martins
+          kind: caught
+    - 6.1:
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ibrahim Rahimi
+        batsman: M Shahbaz Butt
+    - 6.2:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+    - 6.3:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+    - 6.4:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ibrahim Rahimi
+        wicket:
+          player_out: Ibrahim Rahimi
+          fielders:
+          - J Martins
+          kind: caught
+    - 6.5:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 6.6:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahbaz Butt
+    - 7.1:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Raza
+    - 7.2:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Raza
+    - 7.3:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 7.4:
+        non_striker: Faisal Raza
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahbaz Butt
+    - 7.5:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Raza
+    - 7.6:
+        non_striker: M Shahbaz Butt
+        bowler: Sirajullah Khadim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Raza
+    - 8.1:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahbaz Butt
+    - 8.2:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 8.3:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahbaz Butt
+    - 8.4:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahbaz Butt
+    - 8.5:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Raza
+    - 8.6:
+        non_striker: M Shahbaz Butt
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 9.1:
+        non_striker: M Shahbaz Butt
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 9.2:
+        non_striker: Faisal Raza
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Shahbaz Butt
+    - 9.3:
+        non_striker: M Shahbaz Butt
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 9.4:
+        non_striker: Faisal Raza
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shahbaz Butt
+        wicket:
+          player_out: M Shahbaz Butt
+          fielders:
+          - C De Freitas
+          kind: caught
+    - 9.5:
+        non_striker: Faisal Raza
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qamar Mushtaque
+    - 9.6:
+        non_striker: Faisal Raza
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qamar Mushtaque
+    - 10.1:
+        non_striker: Qamar Mushtaque
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 10.2:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qamar Mushtaque
+    - 10.3:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qamar Mushtaque
+    - 10.4:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qamar Mushtaque
+    - 10.5:
+        non_striker: Qamar Mushtaque
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Raza
+    - 10.6:
+        non_striker: Faisal Raza
+        bowler: H Khuttan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Qamar Mushtaque
+    - 11.1:
+        non_striker: Faisal Raza
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Qamar Mushtaque
+        wicket:
+          player_out: Faisal Raza
+          fielders:
+          - D Norotam
+          kind: run out
+    - 11.2:
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Vinay Ravi
+        batsman: Qamar Mushtaque
+    - 11.3:
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Vinay Ravi
+        batsman: Qamar Mushtaque
+    - 11.4:
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Vinay Ravi
+        batsman: Qamar Mushtaque
+    - 11.5:
+        non_striker: Qamar Mushtaque
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 11.6:
+        non_striker: Qamar Mushtaque
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinay Ravi
+    - 12.1:
+        non_striker: Qamar Mushtaque
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 12.2:
+        non_striker: Qamar Mushtaque
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+        wicket:
+          player_out: Qamar Mushtaque
+          fielders:
+          - D Norotam
+          kind: run out
+    - 12.3:
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Mansoor Shah
+        batsman: Vinay Ravi
+    - 12.4:
+        non_striker: Vinay Ravi
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansoor Shah
+    - 12.5:
+        non_striker: Vinay Ravi
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansoor Shah
+    - 12.6:
+        non_striker: Mansoor Shah
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinay Ravi
+    - 13.1:
+        non_striker: Mansoor Shah
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 13.2:
+        non_striker: Mansoor Shah
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Vinay Ravi
+    - 13.3:
+        non_striker: Mansoor Shah
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 13.4:
+        non_striker: Mansoor Shah
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 13.5:
+        non_striker: Mansoor Shah
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 13.6:
+        non_striker: Mansoor Shah
+        bowler: Edward Fleming
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinay Ravi
+    - 14.1:
+        non_striker: Mansoor Shah
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 14.2:
+        non_striker: Mansoor Shah
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+    - 14.3:
+        non_striker: Mansoor Shah
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Vinay Ravi
+    - 14.4:
+        non_striker: Vinay Ravi
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansoor Shah
+    - 14.5:
+        non_striker: Vinay Ravi
+        bowler: C Greenshields
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mansoor Shah
+    - 14.6:
+        non_striker: Vinay Ravi
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mansoor Shah
+    - 14.7:
+        non_striker: Mansoor Shah
+        bowler: C Greenshields
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vinay Ravi
+        wicket:
+          player_out: Mansoor Shah
+          fielders:
+          - J Martins
+          - C Nunes
+          kind: run out

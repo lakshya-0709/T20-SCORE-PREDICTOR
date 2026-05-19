@@ -1,0 +1,2075 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2026-04-07'
+  gender: male
+  match_type: T20
+  match_type_number: 3805
+  outcome:
+    winner: Sweden
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - GD Arta
+  players:
+    Indonesia:
+    - GA Priandana
+    - S Jegannathan
+    - KN Chaddha
+    - GD Arta
+    - S Kharvi
+    - KB Tember
+    - DJ Hawoe
+    - IKEG Artawan
+    - Anjar Tadarus
+    - DK Shetty
+    - F Banunaek
+    Sweden:
+    - Imal Zuwak
+    - A Mundra
+    - Awais Ahmad
+    - Saeed Ahmed
+    - YS Chauhan
+    - W Boshoff
+    - Zaid Ahmad
+    - A Dhabe
+    - SN Swamy
+    - Zain Muzaffar
+    - Zabiullah Zahid
+  registry:
+    people:
+      A Dhabe: 5a0dbdeb
+      A Mundra: 30ffaf85
+      Anjar Tadarus: '72275237'
+      Awais Ahmad: 518a21ed
+      DJ Hawoe: a62f55ba
+      DK Shetty: 65cfc56b
+      F Banunaek: 3c8faed4
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      IKAW Kusuma: 7ae108a8
+      IKEG Artawan: 190957d2
+      Imal Zuwak: 1283e17b
+      KB Tember: 8a027c6a
+      KN Chaddha: a88e4013
+      Riaz Ur Rahman: 476a220a
+      S Hawoe: e773dfe5
+      S Jegannathan: 866e9f3d
+      S Kharvi: 41a61623
+      SN Swamy: '95382501'
+      Saeed Ahmed: 63d6e16e
+      W Boshoff: cad11a02
+      YS Chauhan: fb3233d4
+      Zabiullah Zahid: 6d024ce3
+      Zaid Ahmad: '45828106'
+      Zain Muzaffar: 19b4fa25
+  teams:
+  - Indonesia
+  - Sweden
+  toss:
+    winner: Indonesia
+    decision: bat
+  umpires:
+  - Riaz Ur Rahman
+  - S Hawoe
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.2:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.3:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.4:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.5:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.6:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.7:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jegannathan
+        batsman: GA Priandana
+    - 0.8:
+        non_striker: S Jegannathan
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.1:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 1.2:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Jegannathan
+    - 1.3:
+        non_striker: S Jegannathan
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.4:
+        non_striker: S Jegannathan
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.5:
+        non_striker: S Jegannathan
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.6:
+        non_striker: S Jegannathan
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 1.7:
+        non_striker: S Jegannathan
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GA Priandana
+    - 2.1:
+        non_striker: S Jegannathan
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 2.2:
+        non_striker: S Jegannathan
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 2.3:
+        non_striker: GA Priandana
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 2.4:
+        non_striker: GA Priandana
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 2.5:
+        non_striker: GA Priandana
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 2.6:
+        non_striker: GA Priandana
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Jegannathan
+    - 3.1:
+        non_striker: S Jegannathan
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GA Priandana
+    - 3.2:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 3.3:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jegannathan
+    - 3.4:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+    - 3.5:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jegannathan
+    - 3.6:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jegannathan
+        wicket:
+          player_out: S Jegannathan
+          kind: lbw
+    - 3.7:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 3.8:
+        non_striker: GA Priandana
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 4.1:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.2:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GA Priandana
+    - 4.3:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GA Priandana
+    - 4.4:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.5:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+    - 4.6:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GA Priandana
+        wicket:
+          player_out: GA Priandana
+          fielders:
+          - Saeed Ahmed
+          kind: caught
+    - 5.1:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Arta
+        batsman: KN Chaddha
+    - 5.2:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Arta
+        batsman: KN Chaddha
+    - 5.3:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GD Arta
+        batsman: KN Chaddha
+    - 5.4:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: GD Arta
+        batsman: KN Chaddha
+    - 5.5:
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GD Arta
+        batsman: KN Chaddha
+    - 5.6:
+        non_striker: KN Chaddha
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 5.7:
+        non_striker: KN Chaddha
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Arta
+    - 6.1:
+        non_striker: GD Arta
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 6.2:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 6.3:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GD Arta
+    - 6.4:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 6.5:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 6.6:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GD Arta
+    - 7.1:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 7.2:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Arta
+    - 7.3:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GD Arta
+    - 7.4:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+    - 7.5:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GD Arta
+    - 7.6:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GD Arta
+        wicket:
+          player_out: GD Arta
+          fielders:
+          - YS Chauhan
+          kind: caught
+    - 7.7:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 8.1:
+        non_striker: S Kharvi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 8.2:
+        non_striker: S Kharvi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 8.3:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 8.4:
+        non_striker: S Kharvi
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 8.5:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 8.6:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 9.1:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Kharvi
+    - 9.2:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 9.3:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Kharvi
+    - 9.4:
+        non_striker: S Kharvi
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 9.5:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+    - 9.6:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Kharvi
+        wicket:
+          player_out: S Kharvi
+          fielders:
+          - A Mundra
+          - W Boshoff
+          kind: run out
+    - 9.7:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Tember
+    - 10.1:
+        non_striker: KB Tember
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 10.2:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Tember
+    - 10.3:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Tember
+    - 10.4:
+        non_striker: KB Tember
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 10.5:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Tember
+    - 10.6:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Tember
+    - 11.1:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Tember
+    - 11.2:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KB Tember
+    - 11.3:
+        non_striker: KB Tember
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 11.4:
+        non_striker: KB Tember
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 11.5:
+        non_striker: KB Tember
+        bowler: Zaid Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Chaddha
+    - 11.6:
+        non_striker: KB Tember
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 11.7:
+        non_striker: KB Tember
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 12.1:
+        non_striker: KB Tember
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 12.2:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KB Tember
+        wicket:
+          player_out: KB Tember
+          fielders:
+          - W Boshoff
+          kind: caught
+    - 12.3:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DJ Hawoe
+    - 12.4:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 12.5:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Hawoe
+    - 12.6:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 12.7:
+        non_striker: DJ Hawoe
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 13.1:
+        non_striker: DJ Hawoe
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Chaddha
+    - 13.2:
+        non_striker: DJ Hawoe
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 13.3:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 13.4:
+        non_striker: DJ Hawoe
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 13.5:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Hawoe
+    - 13.6:
+        non_striker: KN Chaddha
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 14.1:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DJ Hawoe
+    - 14.2:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+    - 14.3:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJ Hawoe
+    - 14.4:
+        non_striker: DJ Hawoe
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 14.5:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DJ Hawoe
+    - 14.6:
+        non_striker: DJ Hawoe
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 15.1:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DJ Hawoe
+    - 15.2:
+        non_striker: DJ Hawoe
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 15.3:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: DJ Hawoe
+    - 15.4:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJ Hawoe
+        wicket:
+          player_out: DJ Hawoe
+          kind: bowled
+    - 15.5:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 15.6:
+        non_striker: IKEG Artawan
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 16.1:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 16.2:
+        non_striker: IKEG Artawan
+        bowler: Zaid Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Chaddha
+    - 16.3:
+        non_striker: IKEG Artawan
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 16.4:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IKEG Artawan
+    - 16.5:
+        non_striker: IKEG Artawan
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 16.6:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+    - 16.7:
+        non_striker: KN Chaddha
+        bowler: Zaid Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IKEG Artawan
+        wicket:
+          player_out: IKEG Artawan
+          fielders:
+          - A Mundra
+          kind: caught
+    - 17.1:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Anjar Tadarus
+        batsman: KN Chaddha
+    - 17.2:
+        bowler: Zain Muzaffar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Anjar Tadarus
+        batsman: KN Chaddha
+    - 17.3:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 17.4:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 17.5:
+        non_striker: Anjar Tadarus
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 17.6:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anjar Tadarus
+    - 17.7:
+        non_striker: KN Chaddha
+        bowler: Zain Muzaffar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 18.1:
+        non_striker: KN Chaddha
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+    - 18.2:
+        non_striker: KN Chaddha
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 18.3:
+        non_striker: Anjar Tadarus
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 18.4:
+        non_striker: Anjar Tadarus
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 18.5:
+        non_striker: Anjar Tadarus
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+    - 18.6:
+        non_striker: Anjar Tadarus
+        bowler: Zabiullah Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Chaddha
+    - 19.1:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anjar Tadarus
+    - 19.2:
+        non_striker: Anjar Tadarus
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Chaddha
+    - 19.3:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anjar Tadarus
+        wicket:
+          player_out: Anjar Tadarus
+          fielders:
+          - Saeed Ahmed
+          kind: caught
+    - 19.4:
+        non_striker: KN Chaddha
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DK Shetty
+    - 19.5:
+        non_striker: DK Shetty
+        bowler: SN Swamy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Chaddha
+        wicket:
+          player_out: KN Chaddha
+          fielders:
+          - Imal Zuwak
+          kind: caught
+    - 19.6:
+        non_striker: DK Shetty
+        bowler: SN Swamy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Banunaek
+- 2nd innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mundra
+        batsman: Imal Zuwak
+    - 0.2:
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mundra
+        batsman: Imal Zuwak
+    - 0.3:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 0.4:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 0.5:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 0.6:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 1.1:
+        non_striker: Imal Zuwak
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 1.2:
+        non_striker: Imal Zuwak
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 1.3:
+        non_striker: Imal Zuwak
+        bowler: DK Shetty
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Mundra
+    - 1.4:
+        non_striker: A Mundra
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imal Zuwak
+    - 1.5:
+        non_striker: A Mundra
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 1.6:
+        non_striker: A Mundra
+        bowler: DK Shetty
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imal Zuwak
+    - 2.1:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 2.2:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 2.3:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 2.4:
+        non_striker: A Mundra
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imal Zuwak
+    - 2.5:
+        non_striker: A Mundra
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 2.6:
+        non_striker: Imal Zuwak
+        bowler: F Banunaek
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Mundra
+    - 3.1:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 3.2:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 3.3:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+        wicket:
+          player_out: A Mundra
+          fielders:
+          - KB Tember
+          kind: caught
+    - 3.4:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+    - 3.5:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Awais Ahmad
+    - 3.6:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Awais Ahmad
+    - 3.7:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Awais Ahmad
+    - 3.8:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Awais Ahmad
+    - 3.9:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Awais Ahmad
+    - 3.10:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Awais Ahmad
+    - 4.1:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+    - 4.2:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Awais Ahmad
+    - 4.3:
+        non_striker: Awais Ahmad
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 4.4:
+        non_striker: Awais Ahmad
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imal Zuwak
+    - 4.5:
+        non_striker: Awais Ahmad
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 4.6:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Awais Ahmad
+    - 5.1:
+        non_striker: Awais Ahmad
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 5.2:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Awais Ahmad
+    - 5.3:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+    - 5.4:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Awais Ahmad
+    - 5.5:
+        non_striker: Imal Zuwak
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Awais Ahmad
+    - 5.6:
+        non_striker: Awais Ahmad
+        bowler: DJ Hawoe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 6.1:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+    - 6.2:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+    - 6.3:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+        wicket:
+          player_out: Awais Ahmad
+          fielders:
+          - F Banunaek
+          kind: caught
+    - 6.4:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 6.5:
+        non_striker: Saeed Ahmed
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 6.6:
+        non_striker: Imal Zuwak
+        bowler: GA Priandana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 7.1:
+        non_striker: Saeed Ahmed
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 7.2:
+        non_striker: Saeed Ahmed
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 7.3:
+        non_striker: Imal Zuwak
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 7.4:
+        non_striker: Saeed Ahmed
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 7.5:
+        non_striker: Imal Zuwak
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 7.6:
+        non_striker: Saeed Ahmed
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 8.1:
+        non_striker: Saeed Ahmed
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 8.2:
+        non_striker: Imal Zuwak
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saeed Ahmed
+    - 8.3:
+        non_striker: Saeed Ahmed
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 8.4:
+        non_striker: Saeed Ahmed
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imal Zuwak
+    - 8.5:
+        non_striker: Imal Zuwak
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+        wicket:
+          player_out: Saeed Ahmed
+          kind: lbw
+    - 8.6:
+        non_striker: Imal Zuwak
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 9.1:
+        non_striker: YS Chauhan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Imal Zuwak
+    - 9.2:
+        non_striker: YS Chauhan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 9.3:
+        non_striker: YS Chauhan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          fielders:
+          - F Banunaek
+          kind: caught
+    - 9.4:
+        non_striker: YS Chauhan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 9.5:
+        non_striker: YS Chauhan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 9.6:
+        non_striker: YS Chauhan
+        bowler: Anjar Tadarus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 10.1:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 10.2:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 10.3:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 10.4:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: YS Chauhan
+    - 10.5:
+        non_striker: YS Chauhan
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 10.6:
+        non_striker: YS Chauhan
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 11.1:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Chauhan
+    - 11.2:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 11.3:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+        wicket:
+          player_out: YS Chauhan
+          fielders:
+          - GD Arta
+          kind: caught
+    - 11.4:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaid Ahmad
+    - 11.5:
+        non_striker: Zaid Ahmad
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 11.6:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaid Ahmad
+    - 12.1:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+    - 12.2:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaid Ahmad
+    - 12.3:
+        non_striker: Zaid Ahmad
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 12.4:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+    - 12.5:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+    - 12.6:
+        non_striker: W Boshoff
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+    - 13.1:
+        non_striker: Zaid Ahmad
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 13.2:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zaid Ahmad
+    - 13.3:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+    - 13.4:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zaid Ahmad
+    - 13.5:
+        non_striker: W Boshoff
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaid Ahmad
+    - 13.6:
+        non_striker: Zaid Ahmad
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Boshoff
+    - 13.7:
+        non_striker: Zaid Ahmad
+        bowler: IKEG Artawan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Boshoff
+    - 14.1:
+        non_striker: W Boshoff
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+    - 14.2:
+        non_striker: W Boshoff
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zaid Ahmad
+    - 14.3:
+        non_striker: Zaid Ahmad
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 14.4:
+        non_striker: Zaid Ahmad
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 14.5:
+        non_striker: W Boshoff
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zaid Ahmad
+        wicket:
+          player_out: Zaid Ahmad
+          fielders:
+          - DK Shetty
+          kind: caught
+    - 14.6:
+        non_striker: W Boshoff
+        bowler: S Jegannathan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dhabe
+    - 15.1:
+        non_striker: A Dhabe
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 15.2:
+        non_striker: A Dhabe
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 15.3:
+        non_striker: A Dhabe
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Boshoff
+    - 15.4:
+        non_striker: A Dhabe
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Boshoff
+    - 15.5:
+        non_striker: A Dhabe
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Boshoff
+    - 15.6:
+        non_striker: W Boshoff
+        bowler: KN Chaddha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dhabe

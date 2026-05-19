@@ -1,0 +1,1500 @@
+---
+meta:
+  data_version: 0.92
+  created: '2026-04-04'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Naucalpan
+  dates:
+  - '2026-04-03'
+  gender: male
+  match_type: T20
+  match_type_number: 3795
+  outcome:
+    winner: Brazil
+    by:
+      wickets: 10
+  overs: 20
+  player_of_match:
+  - LH Rodrigues
+  players:
+    Costa Rica:
+    - TV Badri Narayanan
+    - J Cutinho
+    - S Wankhade
+    - S Pillai
+    - S Ravikumar
+    - Imran Ahmed Kaneez
+    - Ashar Abbas
+    - T Amresh
+    - K Shivam
+    - S Murari
+    - PV Naringrekar
+    Brazil:
+    - LF Muller
+    - LH Rodrigues
+    - G Oliveira
+    - LA Goncalves
+    - MFI Assuncao
+    - LG Moras
+    - RV Nascimento
+    - W Maximo
+    - Yasar Haroon
+    - B Passoni
+    - CC Machado
+  registry:
+    people:
+      Ashar Abbas: 33e59f48
+      B Passoni: a3e8e678
+      CC Machado: 5992ef03
+      G Oliveira: b4c52f5f
+      Imran Ahmed Kaneez: 8c3cbee9
+      J Cutinho: c329d304
+      K Shivam: f46fbe60
+      LA Goncalves: 40ff8e58
+      LF Muller: f6411545
+      LG Moras: d5dea4e7
+      LH Rodrigues: 57c95c3c
+      MFI Assuncao: d8e48e1b
+      PV Naringrekar: b0ff13d6
+      RV Nascimento: d9ba93c0
+      S Murari: 3ed39f01
+      S Pillai: 927b34c9
+      S Ravikumar: 5597338d
+      S Wankhade: 27ca21c1
+      T Amresh: 74a8376d
+      TV Badri Narayanan: fb68e13e
+      W Maximo: e41dee27
+      Yasar Haroon: 5a8dc41e
+  teams:
+  - Costa Rica
+  - Brazil
+  toss:
+    winner: Costa Rica
+    decision: bat
+  venue: Reforma Athletic Club, Naucalpan
+innings:
+- 1st innings:
+    team: Costa Rica
+    deliveries:
+    - 0.1:
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: J Cutinho
+        batsman: TV Badri Narayanan
+    - 0.2:
+        bowler: RV Nascimento
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: J Cutinho
+        batsman: TV Badri Narayanan
+    - 0.3:
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Cutinho
+        batsman: TV Badri Narayanan
+    - 0.4:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 0.5:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 0.6:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Cutinho
+    - 0.7:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Cutinho
+        wicket:
+          player_out: J Cutinho
+          fielders:
+          - MFI Assuncao
+          - CC Machado
+          kind: run out
+    - 1.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Wankhade
+        batsman: TV Badri Narayanan
+    - 1.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Wankhade
+        batsman: TV Badri Narayanan
+    - 1.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: S Wankhade
+        batsman: TV Badri Narayanan
+    - 1.4:
+        non_striker: TV Badri Narayanan
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 1.5:
+        non_striker: TV Badri Narayanan
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 1.6:
+        non_striker: TV Badri Narayanan
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wankhade
+    - 2.1:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 2.2:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 2.3:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 2.4:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 2.5:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 2.6:
+        non_striker: TV Badri Narayanan
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 3.1:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.2:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.3:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.4:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.5:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 3.6:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 4.1:
+        non_striker: TV Badri Narayanan
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 4.2:
+        non_striker: TV Badri Narayanan
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 4.3:
+        non_striker: TV Badri Narayanan
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wankhade
+    - 4.4:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 4.5:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+    - 4.6:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TV Badri Narayanan
+        wicket:
+          player_out: TV Badri Narayanan
+          kind: bowled
+    - 5.1:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Pillai
+        batsman: S Wankhade
+    - 5.2:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Pillai
+        batsman: S Wankhade
+    - 5.3:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Pillai
+        batsman: S Wankhade
+    - 5.4:
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Pillai
+        batsman: S Wankhade
+    - 5.5:
+        non_striker: S Wankhade
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 5.6:
+        non_striker: S Pillai
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wankhade
+    - 6.1:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 6.2:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Wankhade
+    - 6.3:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 6.4:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 6.5:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 6.6:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wankhade
+    - 6.7:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Pillai
+    - 6.8:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 7.1:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 7.2:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 7.3:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Wankhade
+    - 7.4:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 7.5:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 7.6:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 7.7:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 8.1:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Pillai
+    - 8.2:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 8.3:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 8.4:
+        non_striker: S Wankhade
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 8.5:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 8.6:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Wankhade
+    - 8.7:
+        non_striker: S Pillai
+        bowler: LG Moras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 9.1:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pillai
+    - 9.2:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 9.3:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+    - 9.4:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pillai
+    - 9.5:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Pillai
+    - 9.6:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Pillai
+    - 9.7:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 9.8:
+        non_striker: S Pillai
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Wankhade
+    - 9.9:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Pillai
+        wicket:
+          player_out: S Pillai
+          kind: bowled
+    - 10.1:
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Ravikumar
+        batsman: S Wankhade
+    - 10.2:
+        non_striker: S Wankhade
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 10.3:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 10.4:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Wankhade
+    - 10.5:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 10.6:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Wankhade
+    - 11.1:
+        non_striker: S Wankhade
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 11.2:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Wankhade
+    - 11.3:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Wankhade
+    - 11.4:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+    - 11.5:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Wankhade
+        wicket:
+          player_out: S Wankhade
+          kind: bowled
+    - 11.6:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ahmed Kaneez
+    - 12.1:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ahmed Kaneez
+    - 12.2:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 12.3:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imran Ahmed Kaneez
+    - 12.4:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 12.5:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 12.6:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 12.7:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Ahmed Kaneez
+    - 13.1:
+        non_striker: Imran Ahmed Kaneez
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+    - 13.2:
+        non_striker: Imran Ahmed Kaneez
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 13.3:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 13.4:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ahmed Kaneez
+    - 13.5:
+        non_striker: Imran Ahmed Kaneez
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 13.6:
+        non_striker: S Ravikumar
+        bowler: Yasar Haroon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 14.1:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ravikumar
+    - 14.2:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 14.3:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 14.4:
+        non_striker: S Ravikumar
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ahmed Kaneez
+    - 14.5:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ravikumar
+        wicket:
+          player_out: S Ravikumar
+          fielders:
+          - CC Machado
+          kind: caught
+    - 14.6:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashar Abbas
+        wicket:
+          player_out: Ashar Abbas
+          fielders:
+          - CC Machado
+          kind: caught
+    - 15.1:
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Amresh
+        batsman: Imran Ahmed Kaneez
+    - 15.2:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Amresh
+    - 15.3:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amresh
+    - 15.4:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Amresh
+        wicket:
+          player_out: T Amresh
+          kind: bowled
+    - 15.5:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Shivam
+    - 15.6:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 15.7:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 16.1:
+        non_striker: K Shivam
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Imran Ahmed Kaneez
+    - 16.2:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Shivam
+    - 16.3:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shivam
+    - 16.4:
+        non_striker: K Shivam
+        bowler: LA Goncalves
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Imran Ahmed Kaneez
+    - 16.5:
+        non_striker: Imran Ahmed Kaneez
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shivam
+    - 16.6:
+        non_striker: K Shivam
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 16.7:
+        non_striker: K Shivam
+        bowler: LA Goncalves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 17.1:
+        non_striker: Imran Ahmed Kaneez
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Shivam
+    - 17.2:
+        non_striker: K Shivam
+        bowler: G Oliveira
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Imran Ahmed Kaneez
+    - 17.3:
+        non_striker: K Shivam
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 17.4:
+        non_striker: K Shivam
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Imran Ahmed Kaneez
+    - 17.5:
+        non_striker: K Shivam
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+    - 17.6:
+        non_striker: K Shivam
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imran Ahmed Kaneez
+        wicket:
+          player_out: Imran Ahmed Kaneez
+          fielders:
+          - CC Machado
+          kind: caught
+    - 17.7:
+        non_striker: K Shivam
+        bowler: G Oliveira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Murari
+    - 18.1:
+        non_striker: S Murari
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+    - 18.2:
+        non_striker: S Murari
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Shivam
+        wicket:
+          player_out: K Shivam
+          fielders:
+          - G Oliveira
+          kind: caught
+    - 18.3:
+        non_striker: S Murari
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Naringrekar
+    - 18.4:
+        non_striker: S Murari
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Naringrekar
+    - 18.5:
+        non_striker: S Murari
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Naringrekar
+    - 18.6:
+        non_striker: S Murari
+        bowler: RV Nascimento
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PV Naringrekar
+    - 19.1:
+        non_striker: S Murari
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Naringrekar
+    - 19.2:
+        non_striker: S Murari
+        bowler: LH Rodrigues
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PV Naringrekar
+        wicket:
+          player_out: PV Naringrekar
+          kind: bowled
+- 2nd innings:
+    team: Brazil
+    deliveries:
+    - 0.1:
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LH Rodrigues
+        batsman: LF Muller
+    - 0.2:
+        non_striker: LF Muller
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 0.3:
+        non_striker: LF Muller
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 0.4:
+        non_striker: LF Muller
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 0.5:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 0.6:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 0.7:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 1.1:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LF Muller
+    - 1.2:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 1.3:
+        non_striker: LF Muller
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 1.4:
+        non_striker: LF Muller
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 1.5:
+        non_striker: LF Muller
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 1.6:
+        non_striker: LF Muller
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
+    - 1.7:
+        non_striker: LF Muller
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 2.1:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 2.2:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 2.3:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 2.4:
+        non_striker: LH Rodrigues
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 2.5:
+        non_striker: LF Muller
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 2.6:
+        non_striker: LF Muller
+        bowler: Ashar Abbas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: LH Rodrigues
+    - 2.7:
+        non_striker: LF Muller
+        bowler: Ashar Abbas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LH Rodrigues
+    - 3.1:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 3.2:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.3:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 3.4:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 3.5:
+        non_striker: LH Rodrigues
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 3.6:
+        non_striker: LF Muller
+        bowler: S Pillai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 4.1:
+        non_striker: LH Rodrigues
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.2:
+        non_striker: LH Rodrigues
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Muller
+    - 4.3:
+        non_striker: LH Rodrigues
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 4.4:
+        non_striker: LF Muller
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 4.5:
+        non_striker: LH Rodrigues
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 4.6:
+        non_striker: LF Muller
+        bowler: S Ravikumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Rodrigues
+    - 5.1:
+        non_striker: LH Rodrigues
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LF Muller
+    - 5.2:
+        non_striker: LH Rodrigues
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 5.3:
+        non_striker: LH Rodrigues
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 5.4:
+        non_striker: LH Rodrigues
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Muller
+    - 5.5:
+        non_striker: LH Rodrigues
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Muller
+    - 5.6:
+        non_striker: LF Muller
+        bowler: J Cutinho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Rodrigues
+    - 6.1:
+        non_striker: LF Muller
+        bowler: PV Naringrekar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Rodrigues
