@@ -10,7 +10,6 @@ import base64
 # --- 1. Page Configuration & Custom CSS ---
 st.set_page_config(page_title="T20 Predictor Pro", page_icon="🏏", layout="wide")
 
-# Helper function to load local images as base64 for CSS/HTML injection
 def get_base64_of_bin_file(bin_file):
     try:
         with open(bin_file, 'rb') as f:
@@ -19,13 +18,12 @@ def get_base64_of_bin_file(bin_file):
     except FileNotFoundError:
         return ""
 
-# Load your stadium background
-bg_image = get_base64_of_bin_file("stadium.jpg") 
+bg_image = get_base64_of_bin_file("stadium.jpg")
 
 st.markdown(f"""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;800&display=swap');
-    
+
     .stApp {{
         background-image: url("data:image/jpg;base64,{bg_image}");
         background-size: cover;
@@ -33,16 +31,15 @@ st.markdown(f"""
         background-attachment: fixed;
     }}
     .block-container {{
-        background-color: rgba(15, 23, 42, 0.85); 
+        background-color: rgba(15, 23, 42, 0.85);
         padding: 3rem !important;
         border-radius: 20px;
         margin-top: 3rem;
         box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
-        backdrop-filter: blur(4px); 
+        backdrop-filter: blur(4px);
         border: 1px solid rgba(255, 255, 255, 0.18);
     }}
-    
-    /* Custom Centered Title with Premium Font */
+
     .main-title {{
         font-family: 'Poppins', sans-serif;
         text-align: center;
@@ -63,25 +60,25 @@ st.markdown(f"""
         margin-bottom: 30px;
         font-family: 'Helvetica Neue', sans-serif;
     }}
-    
+
     h1, h2, h3, p, span, div {{
         color: #f8f9fa !important;
     }}
     .subheader {{
-        color: #ffc107 !important; 
+        color: #ffc107 !important;
         font-weight: 600;
         margin-top: 20px;
         border-bottom: 1px solid rgba(255,255,255,0.1);
         padding-bottom: 10px;
     }}
     .metric-container {{
-        background-color: rgba(255, 255, 255, 0.05); 
+        background-color: rgba(255, 255, 255, 0.05);
         padding: 20px;
         border-radius: 10px;
         border: 1px solid rgba(255, 255, 255, 0.1);
         text-align: center;
     }}
-    .stNumberInput > div > div > input, 
+    .stNumberInput > div > div > input,
     .stSelectbox > div > div > div {{
         background-color: rgba(255,255,255,0.1) !important;
         color: white !important;
@@ -93,6 +90,32 @@ st.markdown(f"""
         font-size: 14px;
         letter-spacing: 1px;
     }}
+
+    /* ── FIX: Dropdown popup list items → dark text on white background ── */
+    [data-baseweb="popover"] *,
+    [data-baseweb="menu"] *,
+    [data-baseweb="list"] *,
+    [role="listbox"] *,
+    [role="option"],
+    [role="option"] * {{
+        color: #1a1a2e !important;
+        background-color: #ffffff !important;
+    }}
+
+    /* Highlighted / hovered option */
+    [role="option"]:hover,
+    [role="option"][aria-selected="true"],
+    [data-highlighted="true"],
+    [data-highlighted="true"] * {{
+        background-color: #e2e8f0 !important;
+        color: #000000 !important;
+    }}
+
+    /* The currently selected item shown inside the closed selectbox should stay white */
+    .stSelectbox [data-baseweb="select"] > div {{
+        color: #ffffff !important;
+        background-color: transparent !important;
+    }}
     </style>
 """, unsafe_allow_html=True)
 
@@ -103,7 +126,7 @@ def load_model():
     if not os.path.exists("pipe.pkl"):
         url = f"https://drive.google.com/uc?id={file_id}"
         gdown.download(url, "pipe.pkl", quiet=False)
-    return pickle.load(open("pipe.pkl","rb"))
+    return pickle.load(open("pipe.pkl", "rb"))
 
 pipe = load_model()
 
@@ -132,11 +155,9 @@ flags = {
     'Sri Lanka': 'https://flagcdn.com/w160/lk.png'
 }
 
-# --- 4. Hero Section (Centered Titles with Image) ---
-# Load your newly generated transparent image
-t20_logo = get_base64_of_bin_file("t20_logo_transparent.png") 
+# --- 4. Hero Section ---
+t20_logo = get_base64_of_bin_file("t20_logo_transparent.png")
 
-# Inject it directly into the h1 tag (No mix-blend-mode hack!)
 st.markdown(f"""
     <h1 class='main-title'>
         <img src='data:image/png;base64,{t20_logo}' width='140' style='margin-right: 20px;'/>
@@ -145,7 +166,6 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 st.markdown("<p class='sub-title'>Advanced Machine Learning Engine to project the final innings score.</p>", unsafe_allow_html=True)
-
 
 # --- 5. Main Screen Match Setup ---
 st.markdown("<h3 class='subheader'>Match Setup</h3>", unsafe_allow_html=True)
@@ -163,8 +183,8 @@ if batting_team == bowling_team:
     st.error("Batting and Bowling teams must be different!")
 else:
     st.markdown("<br>", unsafe_allow_html=True)
-    
-    # --- Dynamic Flags UI ---
+
+    # Dynamic Flags UI
     flag_col1, vs_col, flag_col2 = st.columns([1, 1, 1])
     with flag_col1:
         st.markdown(f"<div style='text-align: right;'><img src='{flags[batting_team]}' width='140' style='border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);'/></div>", unsafe_allow_html=True)
@@ -172,12 +192,12 @@ else:
         st.markdown("<h1 style='text-align: center; color: #ffc107; font-size: 3rem; margin-top: 10px; font-family: \"Poppins\", sans-serif;'>VS</h1>", unsafe_allow_html=True)
     with flag_col2:
         st.markdown(f"<div style='text-align: left;'><img src='{flags[bowling_team]}' width='140' style='border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);'/></div>", unsafe_allow_html=True)
-    
+
     st.markdown("---")
 
     # Match Situation Inputs
     st.markdown("<h3 class='subheader'>Current Match Situation</h3>", unsafe_allow_html=True)
-    
+
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         current_score = st.number_input('Current Score', min_value=0, max_value=350, value=75, step=1)
@@ -194,7 +214,7 @@ else:
     aggression = crr * wickets_left
     pressure = wickets_left / balls_left if balls_left > 0 else 0
     progress = overs / 20
-    runs_possible = (balls_left/6) * crr
+    runs_possible = (balls_left / 6) * crr
 
     if overs <= 6:
         phase = "powerplay"
@@ -203,49 +223,43 @@ else:
     else:
         phase = "death"
 
-
-    # --- 8. Prediction Execution ---
+    # --- 7. Prediction Execution ---
     st.markdown("<br>", unsafe_allow_html=True)
-    
-    # Using columns to push the button to the right side
-    _, col_btn = st.columns([3, 1]) 
+
+    _, col_btn = st.columns([3, 1])
     with col_btn:
         predict_button = st.button("Predict Final Score", use_container_width=True, type="primary")
 
     if predict_button:
         input_df = pd.DataFrame({
-            'batting_team':[batting_team],
-            'bowling_team':[bowling_team],
-            'city':[city],
-            'current_score':[current_score],
-            'balls_left':[balls_left],
-            'wickets_left':[wickets_left],
-            'crr':[crr],
-            'last_five':[last_five],
-            'aggression':[aggression],
-            'pressure':[pressure],
-            'phase':[phase],
-            'progress':[progress],
-            'runs_possible':[runs_possible]
+            'batting_team': [batting_team],
+            'bowling_team': [bowling_team],
+            'city': [city],
+            'current_score': [current_score],
+            'balls_left': [balls_left],
+            'wickets_left': [wickets_left],
+            'crr': [crr],
+            'last_five': [last_five],
+            'aggression': [aggression],
+            'pressure': [pressure],
+            'phase': [phase],
+            'progress': [progress],
+            'runs_possible': [runs_possible]
         })
 
-        # THE MATH FIX: The model predicts remaining runs, so we add it to the current score.
         result = pipe.predict(input_df)
         predicted_remaining_runs = int(result[0])
-        
-        # Ensure we don't get weird negative predictions dropping the score
+
         if predicted_remaining_runs < 0:
             predicted_remaining_runs = 0
-            
-        predicted_score = current_score + predicted_remaining_runs
 
-        # Calculate a realistic range
+        predicted_score = current_score + predicted_remaining_runs
         lower = predicted_score - 12
         upper = predicted_score + 12
 
         st.markdown("---")
         st.markdown("<h3 class='subheader'>Prediction Results</h3>", unsafe_allow_html=True)
-        
+
         res_col1, res_col2 = st.columns(2)
         with res_col1:
             st.markdown(f"""
@@ -264,29 +278,28 @@ else:
 
         st.markdown("<br>", unsafe_allow_html=True)
 
-        # Plotly Chart
         chart_data = pd.DataFrame({
             'Stage': ['Current Score', 'Projected Final Score'],
             'Runs': [current_score, predicted_score]
         })
-        
-        fig = px.bar(chart_data, x='Stage', y='Runs', text='Runs', color='Stage', 
+
+        fig = px.bar(chart_data, x='Stage', y='Runs', text='Runs', color='Stage',
                      color_discrete_sequence=['#ffc107', '#28a745'], height=400)
-        
+
         fig.update_layout(
-            showlegend=False, 
-            xaxis_title=None, 
-            bargap=0.4,       
+            showlegend=False,
+            xaxis_title=None,
+            bargap=0.4,
             margin=dict(t=30, b=30, l=10, r=10),
             plot_bgcolor='rgba(0,0,0,0)',
             paper_bgcolor='rgba(0,0,0,0)',
             font=dict(family="Helvetica Neue", size=14)
         )
         fig.update_traces(textposition='outside')
-        
+
         st.plotly_chart(fig, use_container_width=True, config={'displayModeBar': False})
 
-# --- 9. Footer ---
+# --- 8. Footer ---
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown(
     "<div class='footer'>Developed by Vivek Yadav - Lakshya Goyal - Shirsh Ranjan Ghosh | CSE</div>",

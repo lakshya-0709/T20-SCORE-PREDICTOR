@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache & Compiled code
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node modules
+node_modules/
+mmll 2/node_modules/
+
+# Local data & temporary files
+*.part
+.ipynb_checkpoints/
+mmll 2/pipe.pkl
+
+# Raw YAML matches data (thousands of individual YAML files)
+mmll 2/data/
